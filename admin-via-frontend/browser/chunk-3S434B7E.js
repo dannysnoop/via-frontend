@@ -1,0 +1,1 @@
+var r=(t,n)=>{let e=document.createElement("a");e.download=`${t}`,e.href=(window.webkitURL||window.URL).createObjectURL(n),e.click()},a=()=>{let t=new Date,n=t.getDate().toString().padStart(2,"0"),e=(t.getMonth()+1).toString().padStart(2,"0"),o=t.getFullYear();return`${n}-${e}-${o}`};export{r as a,a as b};

@@ -1,0 +1,1 @@
+var t=class{constructor(){this.OTP="",this.balance=0,this.createdAt="",this.device="",this.email="",this.id=0,this.ip="",this.discount="",this.is2FA=!0,this.isActive=!0,this.lastLogin="",this.phone="",this.role=0,this.totalBalance="",this.updatedAt="",this.username=""}};export{t as a};
